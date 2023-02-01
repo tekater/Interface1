@@ -1,0 +1,4 @@
+package multipleinterfaces;
+
+interface B {
+}
